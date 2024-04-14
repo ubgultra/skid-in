@@ -164,16 +164,11 @@ document.addEventListener('DOMContentLoaded', function (event) {
 })
 
 let splashtext = [
-  'Over 8 Million Users since 2023',
-  'Fastest growing proxy server',
-  'Made by xBubbo',
-  'Check out discord.gg/interstellar :)',
+  'idk man',
+  'Type a url faster',
+  'Its not skidded, trust me.',
+  'Join the discord',
   'Thanks for using the site',
-  'Follow us on Tiktok (@useinterstellar)',
-  'Subscribe to us on YouTube (@unblocking)',
-  'Subscribe to my Youtube (@xbubbo)',
-  'Check out the settings page',
-  'Check out our Patreon (https://www.patreon.com/gointerstellar)',
 ]
 
 document.getElementById('splash').innerText = splashtext[Math.floor(Math.random() * splashtext.length)]
